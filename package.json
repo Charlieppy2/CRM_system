@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "typescript": "^5.9.2"
+  },
+  "scripts": {
+  "dev": "next dev --turbopack",
+  "build": "next build",
+  "start": "next start",
+  "int": "next int",
+  "init-admin": "node scripts/init-admin.js"
+}
+}
